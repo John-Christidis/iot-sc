@@ -9,6 +9,11 @@ out/
 
 # Docs
 docs/
+lib/
+
+.gitmodules
+.gitignore
+foundry.toml
 
 # Dotenv file
 .env
